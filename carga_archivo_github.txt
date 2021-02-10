@@ -1,0 +1,3 @@
+mes,anho,tea_pp,oferta_pp,rango_edad,Region,requie_verf_domici,requi_verf_laboral,iniciativa,producto,consentimiento,cluster,tipo_cliente,segmento_riesgos
+3,2020,0.7200,10000.00,RE2,LIMA CENTRO,SI,SI,RECONQSTA,PLD PRESTAMOS RENOVADOS,PENDIENTE,INDEPENDIENTE,CLANTIGUO,RIESGO MEDIO ALTO
+
